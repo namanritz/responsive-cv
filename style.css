@@ -80,6 +80,7 @@ header .toggle.active{
 
 .man{
     position: absolute;
+    height: 630px;
     z-index: 2;
     bottom: 0;
     right: 150px;
@@ -274,6 +275,7 @@ header .toggle.active{
     .man{
         right: -100px;
         opacity: 0.3;
+        transform: translateX(-100px);
     }
 
     .banner.active .man{
