@@ -623,7 +623,7 @@ footer .wave#wave3{
 }
 footer .wave#wave4{
     z-index: 999;
-    opacity: 0.7;
+    opacity: 0.6;
     bottom: 20px;
     animation: wave1 4s linear infinite;
 }
